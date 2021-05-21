@@ -6,7 +6,7 @@ This python module will read all '.txt' files in a directory.
 # Import Module
 import os
 
-# Folder Path "Enter Folder Path"
+# Folder Path "Enter Folder Path (local)"
 path = "C:/pytest"
 
 # Change the directory
